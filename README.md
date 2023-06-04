@@ -1,7 +1,7 @@
 **STAKING CONTRACT**
 
 **DESCRIPTION 📌** 
-A staking contract is basically a contract, which lets a user store a specific token let’s say “A” for a fixed amount of time, and in return, we get   a reward of token B.
+A staking contract is basically a code, which lets a user store a specific token let’s say “A” for a fixed amount of time, and in return, we get   a reward of token B.
 Staking can be done for multiple reasons which includes:
 * Staking is part of the Proof-of-Stake algorithm, where the miners who have staked the most will get the mining rights first.
 * Network Popularity: Staking provides incentives to the participants. This encourages more and more people to become a part of the network and         encourages the growth of the network.
