@@ -8,6 +8,7 @@ Staking can be done for multiple reasons which includes:
 * Network Stability: When individuals stake their tokens, it helps stabilize the network by reducing volatility and liquidity risks. By locking up       their tokens, stakers make them less available for immediate trading or selling, thereby reducing potential market fluctuations.
 * Decentralization: When normal individuals stake their tokens, it helps distribute the decision-making power and influence across a wider range of     participants. This decentralized distribution of stakeholder engagement helps prevent the centralization of control.
 * Security and Consensus: With a larger number of participants staking tokens, the network becomes more robust against attacks and ensures a higher     level of security and trustworthiness.
+* Staking can be of different types, Namely fixed Staking and Liquid Staking. This contract is an example of Liquid Staking.
 
 **ALGORITHM 📌**
 * Every time the User Stakes or Withdraws Calculate the Reward Per Token.
